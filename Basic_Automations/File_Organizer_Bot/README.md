@@ -143,6 +143,129 @@ _Python Developer | Automation Enthusiast_
 🌐 **Upcoming Website:** [savvysolvetech.com](https://savvysolvetech.com)  
 💻 **GitHub:** [GitHub Profile](https://github.com/kimeudan05)
 
+## 🆕 Version 1.2.0 — Tkinter GUI Release
+
+🎨 Overview
+
+This release introduces a Graphical User Interface (GUI) built with Tkinter, transforming the File Organizer Bot from a terminal-only tool into a clean, user-friendly desktop app.
+
+Now, you can easily select a folder, click “Start Organizing”, and watch your files neatly sorted into categories — all without touching the command line.
+
+### Whats new
+
+_🪟 GUI Interface_
+
+- Added Tkinter-based user interface
+
+- Allows folder selection via file explorer
+
+- “Start Organizing” button triggers the process instantly
+
+_💬 Real-Time Log Window_
+
+- Displays all moved files live as the script runs
+
+- Scrollable text box for long logs
+
+_✅ Success Popup_
+
+- A small popup appears after organization is complete
+
+_🗂️ Dual Version Support_
+
+- Retained file_organizer.py (CLI)
+
+- Added file_organizer_gui.py (GUI)
+
+- Both share the same core logic and folder mapping
+
+### folder structure
+
+```ini
+Basic Automations/
+└── File Organizer Bot/
+    ├── file_organizer.py         # CLI version (v1.0.0)
+    ├── file_organizer_gui.py     # GUI version (v1.2.0)
+    ├── README.md
+```
+
+### How to run
+
+#### 1. Run the gui
+
+```bash
+python file_organizer_gui.py
+```
+
+#### 2. select folder
+
+pick the folder you want to organize(eg download, desktop, etc)
+
+#### 3. Start organizing
+
+click the 'Start Organizing' button - your files will move into categorized folders
+
+#### Supported Categories
+
+| Category   | File Types                               |
+| ---------- | ---------------------------------------- |
+| Images     | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`  |
+| Documents  | `.pdf`, `.docx`, `.txt`, `.xlsx`, `.csv` |
+| Videos     | `.mp4`, `.mkv`, `.mov`, `.avi`           |
+| Music      | `.mp3`, `.wav`, `.aac`, `.flac`          |
+| Archives   | `.zip`, `.rar`, `.7z`, `.tar`, `.gz`     |
+| Scripts    | `.py`, `.js`, `.html`, `.css`, `.php`    |
+| Installers | `.exe`, `.msi`, `.dmg`                   |
+| Others     | Uncategorized files                      |
+
+**How does version 1 compare to version 2?**
+| Feature | CLI (v1.0.0) | GUI (v1.2.0) |
+| ------------------------- | ------------ | --------------- |
+| Organize by file type | ✅ | ✅ |
+| Automatic folder creation | ✅ | ✅ |
+| Log progress | ✅ | ✅ (visual log) |
+| GUI window | ❌ | ✅ |
+| Folder selection | ❌ | ✅ |
+| Success popup | ❌ | ✅ |
+
+##### Example
+
+- Before
+
+```
+Downloads/
+├── report.pdf
+├── photo.jpg
+├── setup.exe
+├── script.py
+```
+
+- After
+
+```
+Downloads/
+├── Documents/
+│   └── report.pdf
+├── Images/
+│   └── photo.jpg
+├── Installers/
+│   └── setup.exe
+├── Scripts/
+│   └── script.py
+```
+
+### Next Planned Features (v1.3.x+)
+
+- Progress bar with completion percentage
+
+- Custom category configuration
+
+- Undo last organization run
+
+- Convert to standalone .exe using pyinstaller
+
+- Optional upload to cloud (Google Drive or Dropbox integration)
+
 ### 🌟 Support & Contribution
 
 **_If you’d like to contribute:_**
