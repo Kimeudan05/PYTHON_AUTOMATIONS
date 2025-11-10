@@ -3,4 +3,4 @@ virtual_env/
 .vscode/
 .vscode
 *.env
-
+*.git
