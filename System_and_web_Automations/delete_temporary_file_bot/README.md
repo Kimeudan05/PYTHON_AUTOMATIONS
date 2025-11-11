@@ -167,3 +167,84 @@ v1.1.0 (GUI Edition)
 ```
 
 _Enhanced System Cleaner with a Tkinter Interface_
+
+# Sharing this
+
+### 1. To create a running bat file
+
+#### Step 1: Create the Batch File (run_cleaner.bat)
+
+Create a new text file inside the same folder as gui_cleaner.py, and name it:
+
+```
+run_cleaner.bat
+```
+
+Then paste the following content into it:
+
+```
+@echo off
+cd /d "D:\PYTHON AUTOMATIONS\system_and_web_automations\delete_temporary_file_bot"
+call "D:\PYTHON AUTOMATIONS\virtual_env\Scripts\activate"
+python gui_cleaner.py
+pause
+```
+
+#### 🔍 What this does:
+
+- cd /d ... → Changes to your project directory.
+
+- call ...activate → Activates your virtual environment.
+
+- python gui_cleaner.py → Runs your GUI Cleaner script.
+
+- pause → Keeps the window open so you can see logs or errors.
+
+- Save and close the file.
+
+#### Step 2: Test It
+
+1. Double-click the run_cleaner.bat file.
+
+2. You should see:
+
+- A terminal open.
+
+- Your virtual environment activating.
+
+- Your GUI Cleaner app launching.
+
+If everything runs correctly, proceed to create the shortcut.
+
+#### Step 3: create a shortcut
+
+- Browse for the `.bat` file in the file explorer.
+- right-click and click on 'show more properties'
+- look for create shortcut
+- move it to the desktop after renaming it
+
+## 2. Convert to an Exceutable (.exe)
+
+This is the best option if you want to share your app or run it without Python installed.
+
+🛠️ Using pyinstaller
+
+### 1. Install pyinstaller:
+
+```
+pip install pyinstaller
+```
+
+### 2. Build your app:
+
+```
+pyinstaller --noconsole --onefile --icon=icon.ico gui_cleaner.py
+```
+
+_(If you don’t have an icon, remove the --icon part.)_
+
+### 3. After it finishes, check inside:
+
+`dist/gui_cleaner.exe`
+
+### 4.Double-click that `.exe` — your app will launch just like a native Windows application

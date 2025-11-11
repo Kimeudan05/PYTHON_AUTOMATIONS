@@ -5,3 +5,12 @@ virtual_env/
 *.env
 *.git
 *.txt
+# Ignore PyInstaller build folders
+build/
+dist/
+__pycache__/
+*.spec
+*.pyc
+*.pyo
+*.log
+*.bat
