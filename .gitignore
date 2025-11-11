@@ -4,3 +4,4 @@ virtual_env/
 .vscode
 *.env
 *.git
+*.txt
