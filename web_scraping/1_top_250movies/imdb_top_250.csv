@@ -1,0 +1,251 @@
+id,title,year,rating,votes
+#1,The Shawshank Redemption,1994,9.3,3100000
+#2,The Godfather,1972,9.2,2200000
+#3,The Dark Knight,2008,9.1,3100000
+#4,The Godfather Part II,1974,9.0,1500000
+#5,12 Angry Men,1957,9.0,960000
+#6,The Lord of the Rings: The Return of the King,2003,9.0,2100000
+#7,Schindler's List,1993,9.0,1600000
+#8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2200000
+#9,Pulp Fiction,1994,8.8,2400000
+#10,"The Good, the Bad and the Ugly",1966,8.8,877000
+#11,The Lord of the Rings: The Two Towers,2002,8.8,1900000
+#12,Forrest Gump,1994,8.8,2400000
+#13,Fight Club,1999,8.8,2500000
+#14,Inception,2010,8.8,2800000
+#15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1500000
+#16,The Matrix,1999,8.7,2200000
+#17,Goodfellas,1990,8.7,1400000
+#18,Interstellar,2014,8.7,2400000
+#19,One Flew Over the Cuckoo's Nest,1975,8.7,1100000
+#20,Se7en,1995,8.6,2000000
+#21,It's a Wonderful Life,1946,8.6,541000
+#22,The Silence of the Lambs,1991,8.6,1700000
+#23,Seven Samurai,1954,8.6,396000
+#24,Saving Private Ryan,1998,8.6,1600000
+#25,The Green Mile,1999,8.6,1500000
+#26,City of God,2002,8.6,858000
+#27,Life Is Beautiful,1997,8.6,799000
+#28,Terminator 2: Judgment Day,1991,8.6,1300000
+#29,Star Wars: Episode IV - A New Hope,1977,8.6,1500000
+#30,Back to the Future,1985,8.5,1400000
+#31,Spirited Away,2001,8.6,943000
+#32,The Pianist,2002,8.5,994000
+#33,Gladiator,2000,8.5,1800000
+#34,Parasite,2019,8.5,1100000
+#35,Psycho,1960,8.5,774000
+#36,Grave of the Fireflies,1988,8.5,371000
+#37,The Lion King,1994,8.5,1200000
+#38,Harakiri,1962,8.6,88000
+#39,The Departed,2006,8.5,1500000
+#40,Whiplash,2014,8.5,1100000
+#41,The Prestige,2006,8.5,1600000
+#42,American History X,1998,8.5,1300000
+#43,Léon: The Professional,1994,8.5,1300000
+#44,Spider-Man: Across the Spider-Verse,2023,8.5,494000
+#45,Cinema Paradiso,1988,8.5,312000
+#46,Casablanca,1942,8.5,647000
+#47,The Intouchables,2011,8.5,1000000
+#48,The Usual Suspects,1995,8.5,1200000
+#49,Alien,1979,8.5,1000000
+#50,Modern Times,1936,8.5,282000
+#51,Rear Window,1954,8.5,561000
+#52,Django Unchained,2012,8.5,1800000
+#53,Once Upon a Time in the West,1968,8.5,379000
+#54,City Lights,1931,8.5,214000
+#55,Apocalypse Now,1979,8.4,759000
+#56,WALL·E,2008,8.4,1300000
+#57,Memento,2000,8.4,1400000
+#58,Dune: Part Two,2024,8.4,684000
+#59,Raiders of the Lost Ark,1981,8.4,1100000
+#60,Avengers: Infinity War,2018,8.4,1300000
+#61,The Lives of Others,2006,8.4,438000
+#62,Spider-Man: Into the Spider-Verse,2018,8.4,763000
+#63,Sunset Boulevard,1950,8.4,257000
+#64,Witness for the Prosecution,1957,8.4,158000
+#65,Paths of Glory,1957,8.4,235000
+#66,The Shining,1980,8.4,1200000
+#67,The Great Dictator,1940,8.4,256000
+#68,Inglourious Basterds,2009,8.4,1700000
+#69,Aliens,1986,8.4,829000
+#70,12th Fail,2023,8.7,163000
+#71,High and Low,1963,8.4,69000
+#72,The Dark Knight Rises,2012,8.4,2000000
+#73,Coco,2017,8.4,683000
+#74,Avengers: Endgame,2019,8.4,1400000
+#75,Amadeus,1984,8.4,461000
+#76,Good Will Hunting,1997,8.3,1200000
+#77,Toy Story,1995,8.3,1100000
+#78,Your Name.,2016,8.4,376000
+#79,Oldboy,2003,8.3,701000
+#80,Das Boot,1981,8.4,284000
+#81,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,546000
+#82,Braveheart,1995,8.3,1100000
+#83,Princess Mononoke,1997,8.3,473000
+#84,American Beauty,1999,8.3,1300000
+#85,3 Idiots,2009,8.4,472000
+#86,Capernaum,2018,8.4,121000
+#87,Joker,2019,8.3,1700000
+#88,Once Upon a Time in America,1984,8.3,403000
+#89,Singin' in the Rain,1952,8.3,278000
+#90,Come and See,1985,8.3,118000
+#91,Requiem for a Dream,2000,8.3,958000
+#92,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1200000
+#93,Toy Story 3,2010,8.3,952000
+#94,The Hunt,2012,8.3,400000
+#95,Ikiru,1952,8.3,100000
+#96,Eternal Sunshine of the Spotless Mind,2004,8.3,1200000
+#97,Incendies,2010,8.3,241000
+#98,The Apartment,1960,8.3,214000
+#99,Lawrence of Arabia,1962,8.3,336000
+#100,2001: A Space Odyssey,1968,8.3,770000
+#101,Reservoir Dogs,1992,8.3,1200000
+#102,Scarface,1983,8.3,994000
+#103,Heat,1995,8.3,782000
+#104,Double Indemnity,1944,8.3,178000
+#105,Up,2009,8.3,1200000
+#106,North by Northwest,1959,8.3,366000
+#107,M,1931,8.3,181000
+#108,Full Metal Jacket,1987,8.2,838000
+#109,Citizen Kane,1941,8.2,489000
+#110,Like Stars on Earth,2007,8.3,227000
+#111,Vertigo,1958,8.2,454000
+#112,Amélie,2001,8.3,830000
+#113,A Separation,2011,8.3,274000
+#114,Die Hard,1988,8.2,1000000
+#115,To Kill a Mockingbird,1962,8.3,348000
+#116,Indiana Jones and the Last Crusade,1989,8.2,853000
+#117,The Sting,1973,8.2,296000
+#118,A Clockwork Orange,1971,8.2,926000
+#119,Metropolis,1927,8.3,198000
+#120,Snatch,2000,8.2,963000
+#121,1917,2019,8.2,751000
+#122,L.A. Confidential,1997,8.2,651000
+#123,Oppenheimer,2023,8.3,960000
+#124,Downfall,2004,8.2,395000
+#125,Bicycle Thieves,1948,8.2,190000
+#126,Dangal,2016,8.3,236000
+#127,The Wolf of Wall Street,2013,8.2,1700000
+#128,The Truman Show,1998,8.2,1300000
+#129,Green Book,2018,8.2,663000
+#130,Hamilton,2020,8.3,135000
+#131,Batman Begins,2005,8.2,1700000
+#132,Taxi Driver,1976,8.2,1000000
+#133,Judgment at Nuremberg,1961,8.3,95000
+#134,Shutter Island,2010,8.2,1600000
+#135,For a Few Dollars More,1965,8.2,295000
+#136,Some Like It Hot,1959,8.2,301000
+#137,Jurassic Park,1993,8.2,1200000
+#138,There Will Be Blood,2007,8.2,692000
+#139,The Kid,1921,8.2,144000
+#140,The Father,2020,8.2,222000
+#141,All About Eve,1950,8.2,147000
+#142,The Sixth Sense,1999,8.2,1100000
+#143,Ran,1985,8.2,149000
+#144,Casino,1995,8.2,608000
+#145,The Chaos Class Failed the Class,1975,8.6,29000
+#146,No Country for Old Men,2007,8.2,1200000
+#147,The Thing,1982,8.2,515000
+#148,Top Gun: Maverick,2022,8.2,815000
+#149,Pan's Labyrinth,2006,8.2,738000
+#150,Unforgiven,1992,8.2,462000
+#151,Prisoners,2013,8.2,905000
+#152,Kill Bill: Vol. 1,2003,8.2,1300000
+#153,A Beautiful Mind,2001,8.2,1000000
+#154,The Treasure of the Sierra Madre,1948,8.2,140000
+#155,Howl's Moving Castle,2004,8.2,499000
+#156,Finding Nemo,2003,8.2,1200000
+#157,Yojimbo,1961,8.2,141000
+#158,The Great Escape,1963,8.2,274000
+#159,Monty Python and the Holy Grail,1975,8.2,597000
+#160,The Best of Youth,2003,8.4,27000
+#161,The Elephant Man,1980,8.2,278000
+#162,Klaus,2019,8.2,223000
+#163,Dial M for Murder,1954,8.2,202000
+#164,Gone with the Wind,1939,8.2,352000
+#165,The Secret in Their Eyes,2009,8.2,238000
+#166,Chinatown,1974,8.1,372000
+#167,"Lock, Stock and Two Smoking Barrels",1998,8.1,644000
+#168,Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle,2025,8.5,53000
+#169,V for Vendetta,2005,8.1,1200000
+#170,Rashomon,1950,8.1,194000
+#171,Inside Out,2015,8.1,892000
+#172,Catch Me If You Can,2002,8.1,1200000
+#173,"Three Billboards Outside Ebbing, Missouri",2017,8.1,596000
+#174,Trainspotting,1996,8.1,761000
+#175,The Bridge on the River Kwai,1957,8.1,246000
+#176,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,1000000
+#177,Raging Bull,1980,8.1,404000
+#178,Fargo,1996,8.1,770000
+#179,Warrior,2011,8.1,523000
+#180,The Wild Robot,2024,8.2,205000
+#181,Dead Poets Society,1989,8.1,623000
+#182,Barry Lyndon,1975,8.1,200000
+#183,Ben-Hur,1959,8.1,268000
+#184,Million Dollar Baby,2004,8.1,757000
+#185,Mad Max: Fury Road,2015,8.1,1200000
+#186,Gran Torino,2008,8.1,852000
+#187,My Neighbor Totoro,1988,8.1,421000
+#188,Children of Heaven,1997,8.2,88000
+#189,Hacksaw Ridge,2016,8.1,661000
+#190,The Grand Budapest Hotel,2014,8.1,948000
+#191,12 Years a Slave,2013,8.1,776000
+#192,Before Sunrise,1995,8.1,369000
+#193,Blade Runner,1982,8.1,869000
+#194,Memories of Murder,2003,8.1,256000
+#195,Spider-Man: No Way Home,2021,8.2,988000
+#196,Ratatouille,2007,8.1,917000
+#197,How to Train Your Dragon,2010,8.1,874000
+#198,Gone Girl,2014,8.1,1100000
+#199,"Monsters, Inc.",2001,8.1,1100000
+#200,Jaws,1975,8.1,723000
+#201,In the Name of the Father,1993,8.1,200000
+#202,Ford v Ferrari,2019,8.1,550000
+#203,Wild Tales,2014,8.1,234000
+#204,The Gold Rush,1925,8.1,127000
+#205,Sherlock Jr.,1924,8.1,64000
+#206,Mary and Max,2009,8.1,200000
+#207,The Deer Hunter,1978,8.1,382000
+#208,The Wages of Fear,1953,8.1,72000
+#209,The General,1926,8.1,105000
+#210,Mr. Smith Goes to Washington,1939,8.1,128000
+#211,Logan,2017,8.1,910000
+#212,On the Waterfront,1954,8.1,176000
+#213,Rocky,1976,8.1,676000
+#214,Tokyo Story,1953,8.1,76000
+#215,Wild Strawberries,1957,8.1,123000
+#216,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1300000
+#217,The Third Man,1949,8.1,193000
+#218,Spotlight,2015,8.1,528000
+#219,Maharaja,2024,8.3,77000
+#220,Jai Bhim,2021,8.6,231000
+#221,La haine,1995,8.1,220000
+#222,The Terminator,1984,8.1,986000
+#223,The Big Lebowski,1998,8.1,905000
+#224,The Sound of Music,1965,8.1,285000
+#225,The Seventh Seal,1957,8.1,213000
+#226,Room,2015,8.1,475000
+#227,The Best Years of Our Lives,1946,8.1,76000
+#228,A Silent Voice: The Movie,2016,8.2,132000
+#229,Hotel Rwanda,2004,8.1,388000
+#230,Platoon,1986,8.1,465000
+#231,Before Sunset,2004,8.1,309000
+#232,The Incredibles,2004,8.0,881000
+#233,The Exorcist,1973,8.1,491000
+#234,Hachi: A Dog's Tale,2009,8.1,336000
+#235,Rush,2013,8.1,549000
+#236,The Wizard of Oz,1939,8.1,460000
+#237,The Passion of Joan of Arc,1928,8.1,67000
+#238,Stand by Me,1986,8.1,476000
+#239,The Iron Giant,1999,8.1,253000
+#240,My Father and My Son,2005,8.2,99000
+#241,The Battle of Algiers,1966,8.1,74000
+#242,The Handmaiden,2016,8.1,196000
+#243,Network,1976,8.1,183000
+#244,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,8.2,95000
+#245,Gangs of Wasseypur,2012,8.2,112000
+#246,The Grapes of Wrath,1940,8.1,107000
+#247,Drishyam,2015,8.2,106000
+#248,To Be or Not to Be,1942,8.1,49000
+#249,Autumn Sonata,1978,8.1,41000
+#250,Andhadhun,2018,8.2,113000
